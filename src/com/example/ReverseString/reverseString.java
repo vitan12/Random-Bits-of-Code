@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class reverseString {
 
-    public static String reversal (String input){
+    private static String reversal (String input){
         String newString = "";
         for (int i = input.length()-1; i>=0; i--){
             newString += input.charAt(i);
@@ -20,6 +20,7 @@ public class reverseString {
         System.out.println("Your inputted String is is " + reverseString);
 
         System.out.println("The Reverse of this String is: " + reversal(reverseString));
+        scanner.close();
 
     }
 

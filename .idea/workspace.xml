@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="924e16b9-716b-41f7-a9ef-0d24cec2265f" name="Default Changelist" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel.java" afterDir="false" />
+    <list default="true" id="924e16b9-716b-41f7-a9ef-0d24cec2265f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/example/WordFunnel/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/PigLatin/pigLatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/PigLatin/pigLatin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/ReverseString/reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/ReverseString/reverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/palindromes/Palindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/palindromes/Palindromes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,25 +37,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="2" />
-          <entry key="java" value="9" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3123" />
-          <entry key="txt" value="20" />
+          <entry key="java" value="4779" />
+          <entry key="txt" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3123" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="JAVA" value="4779" />
+          <entry key="PLAIN_TEXT" value="53" />
         </counts>
       </usages-collector>
     </session>
@@ -60,17 +65,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/ReverseString/reverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="330">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel.java">
+        <entry file="file://$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="187">
+              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/WordFunnel/ReadFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/palindromes/Palindromes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="358">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -87,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/PigLatin/pigLatin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="47" column="36" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="47" selection-end-column="36" />
+            <state relative-caret-position="341">
+              <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -115,10 +144,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/com/example/ReverseString/helloWorld.java" />
+        <option value="$PROJECT_DIR$/src/com/example/WordFunnel/ReadFile.java" />
         <option value="$PROJECT_DIR$/src/com/example/ReverseString/reverseString.java" />
-        <option value="$PROJECT_DIR$/src/com/example/palindromes/Palindromes.java" />
         <option value="$PROJECT_DIR$/src/com/example/PigLatin/pigLatin.java" />
+        <option value="$PROJECT_DIR$/src/com/example/palindromes/Palindromes.java" />
         <option value="$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel.java" />
+        <option value="$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel2.java" />
       </list>
     </option>
   </component>
@@ -195,7 +226,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535830294562" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535834925914" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -213,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.wordFunnel">
+  <component name="RunManager" selected="Application.wordFunnel2">
     <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.palindromes.Palindromes" />
       <module name="RandomProjects" />
@@ -255,6 +286,19 @@
     </configuration>
     <configuration name="wordFunnel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.WordFunnel.wordFunnel" />
+      <module name="RandomProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.WordFunnel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wordFunnel2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.WordFunnel.wordFunnel2" />
       <module name="RandomProjects" />
       <extension name="coverage">
         <pattern>
@@ -318,9 +362,11 @@
       <item itemvalue="Application.Palindromes" />
       <item itemvalue="Application.pigLatin" />
       <item itemvalue="Application.wordFunnel" />
+      <item itemvalue="Application.wordFunnel2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.wordFunnel2" />
         <item itemvalue="Application.wordFunnel" />
         <item itemvalue="Application.pigLatin" />
         <item itemvalue="Application.reverseString" />
@@ -339,6 +385,21 @@
       <option name="presentableId" value="Default" />
       <updated>1535815690817</updated>
     </task>
+    <task id="LOCAL-00001" summary="Word Funnel added">
+      <created>1535830221100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535830221100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Word Funnel modified">
+      <created>1535830313436</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535830313436</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -354,15 +415,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992636" weight="0.32969698" />
       <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32969698" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50073636" side_tool="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32969698" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -377,17 +438,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Word Funnel added" />
+    <MESSAGE value="Word Funnel modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="Word Funnel modified" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ReverseString.java" />
@@ -408,13 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/palindromes/Palindromes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RandomProjects.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -423,22 +471,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/ReverseString/reverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="330">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/PigLatin/pigLatin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="47" column="36" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="47" selection-end-column="36" />
+        <state relative-caret-position="341">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/palindromes/Palindromes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/WordFunnel/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/WordFunnel/wordFunnel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

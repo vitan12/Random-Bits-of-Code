@@ -30,7 +30,8 @@ public class wordFunnel {
         input2  = scanner.nextLine();
         System.out.println("The program will compare: "+input1+" and "+input2);
         System.out.println(compareWords(input1, input2));
-
+        scanner.close();
+        scanner1.close();
     }
 
 }

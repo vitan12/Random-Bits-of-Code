@@ -48,6 +48,7 @@ public class pigLatin {
         input  = scanner.nextLine();
         System.out.println("Your inputted String is is " + input);
         System.out.println("The translated String is: "+translator(input.toLowerCase()));
+        scanner.close();
 
 
     }

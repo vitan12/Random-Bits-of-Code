@@ -28,6 +28,7 @@ public class Palindromes {
             System.out.println("Yes, it is a palindrome");
         else
             System.out.println("No, it is not a palindrome.");
+        scanner.close();
 
 
     }
